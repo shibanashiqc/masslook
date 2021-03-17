@@ -1,4 +1,4 @@
-#Masslook
+#masslook
 MASSLOOKER LYF LONG BY SHIBAN ASHIQ
 #Abou
 Mass Looker ,it’s a console-based script created for massvoting (mass poll voting) and masslooking stories
@@ -19,3 +19,4 @@ Emoji Slider
 #Installation
 
 MassLooker requires PHP latest version to run.
+ 
