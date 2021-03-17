@@ -30,11 +30,11 @@ MassLooker requires PHP Latest Version o run.
 
 Follow These Steps for Installation
 
-$pkg install php
+$ pkg install php
 
-$pkg install git
+$ pkg install git
 
-$pkg install mc
+$ pkg install mc
 
 $ git clone https://github.com/shibanashiqc/masslook
 
